@@ -1,0 +1,6 @@
+Name,Folder,Header line,X,Y,Count,E[eff] (kPa),E[v=0.50] (kPa)
+gelatin 10% F4 ,matrix_scan01,34,1.0,1.0,1,12.429103,9.321826999999999
+gelatin 10% F4 ,matrix_scan01,34,1.0,2.0,2,13.320035,9.990027
+gelatin 10% F4 ,matrix_scan01,34,2.0,1.0,3,13.162808,9.872106
+gelatin 10% F4 ,matrix_scan01,34,2.0,2.0,4,14.586578,10.939934
+gelatin 10% F4 ,matrix_scan02,34,1.0,1.0,1,21.905455999999997,16.429092
