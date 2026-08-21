@@ -1,0 +1,4 @@
+X Stepsize 20
+Y Stepsize 20
+NaN	21757.24
+NaN	19849.45

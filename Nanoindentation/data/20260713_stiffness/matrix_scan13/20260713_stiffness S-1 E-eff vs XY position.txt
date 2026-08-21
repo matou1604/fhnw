@@ -1,0 +1,4 @@
+X Stepsize 20
+Y Stepsize 20
+NaN	NaN
+NaN	NaN
