@@ -1,0 +1,85 @@
+Folder,Type of measurement,Name,E[eff] (kPa),E[v=0.50] (kPa)
+cor_hor_1,Indentations,cor_hor_1 Indentation_001.txt,0.30194299999999996,0.226457
+cor_hor_1,Indentations,cor_hor_1 Indentation_006.txt,0.794621,0.595966
+cor_hor_1,Indentations,cor_hor_1 Indentation_007.txt,1.865113,1.398835
+cor_hor_1,Indentations,cor_hor_1 Indentation_008.txt,2.091576,1.568682
+cor_hor_1,Indentations,cor_hor_1 Indentation_009.txt,2.087519,1.565639
+cor_hor_1,matrix_scan01,cor_hor_1 S-1 X-1 Y-3 I-1.txt,0.038352,0.028763999999999998
+cor_hor_1,matrix_scan01,cor_hor_1 S-1 X-2 Y-2 I-1.txt,0.108194,0.081146
+cor_hor_1,matrix_scan01,cor_hor_1 S-1 X-2 Y-3 I-1.txt,0.094785,0.071089
+cor_hor_2,Indentations,cor_hor_2 Indentation_001.txt,0.344084,0.258063
+cor_hor_2,Indentations,cor_hor_2 Indentation_002.txt,0.12298999999999999,0.092242
+cor_hor_2,Indentations,cor_hor_2 Indentation_003.txt,0.090445,0.067834
+cor_hor_2,Indentations,cor_hor_2 Indentation_006.txt,0.68812,0.51609
+cor_hor_2,Indentations,cor_hor_2 Indentation_009.txt,0.444816,0.333612
+cor_hor_2,matrix_scan03,cor_hor_2 S-1 X-1 Y-1 I-1.txt,0.149277,0.111958
+cor_hor_2,matrix_scan03,cor_hor_2 S-1 X-1 Y-2 I-1.txt,0.099713,0.07478499999999999
+cor_hor_2,matrix_scan03,cor_hor_2 S-1 X-1 Y-3 I-1.txt,0.089989,0.067491
+cor_sag_lat_1.1,matrix_scan01,cor_sag_lat_1.1 S-1 X-1 Y-2 I-1.txt,1.4566089999999998,1.092457
+cor_sag_lat_1.1,matrix_scan01,cor_sag_lat_1.1 S-1 X-1 Y-3 I-1.txt,1.348426,1.0113189999999999
+cor_sag_lat_1.1,matrix_scan01,cor_sag_lat_1.1 S-1 X-1 Y-4 I-1.txt,1.598744,1.199058
+cor_sag_lat_1.1,matrix_scan01,cor_sag_lat_1.1 S-1 X-1 Y-5 I-1.txt,1.695575,1.271681
+cor_sag_lat_1.1,matrix_scan01,cor_sag_lat_1.1 S-1 X-2 Y-2 I-1.txt,2.02353,1.517647
+cor_sag_lat_1.1,matrix_scan01,cor_sag_lat_1.1 S-1 X-2 Y-3 I-1.txt,1.468826,1.101619
+cor_sag_lat_1.1,matrix_scan01,cor_sag_lat_1.1 S-1 X-2 Y-5 I-1.txt,1.068943,0.801707
+cor_sag_lat_1.1,matrix_scan01,cor_sag_lat_1.1 S-1 X-3 Y-1 I-1.txt,1.410953,1.058215
+cor_sag_lat_1.2,matrix_scan01,cor_sag_lat_1.2 S-1 X-1 Y-1 I-1.txt,0.09245,0.069338
+cor_sag_lat_1.2,matrix_scan01,cor_sag_lat_1.2 S-1 X-1 Y-2 I-1.txt,5.071125,3.803344
+cor_sag_lat_1.2,matrix_scan01,cor_sag_lat_1.2 S-1 X-1 Y-3 I-1.txt,2.8139250000000002,2.1104439999999998
+cor_sag_lat_1.2,matrix_scan01,cor_sag_lat_1.2 S-1 X-2 Y-1 I-1.txt,0.600296,0.45022199999999996
+cor_sag_lat_1.2,matrix_scan01,cor_sag_lat_1.2 S-1 X-2 Y-2 I-1.txt,3.9529479999999997,2.964711
+cor_sag_lat_1.2,matrix_scan01,cor_sag_lat_1.2 S-1 X-2 Y-3 I-1.txt,3.454777,2.5910819999999997
+cor_sag_lat_2.1,matrix_scan01,cor_sag_lat_2.1 S-1 X-1 Y-1 I-1.txt,4.0109189999999995,3.00819
+cor_sag_lat_2.1,matrix_scan01,cor_sag_lat_2.1 S-1 X-1 Y-3 I-1.txt,1.749115,1.311836
+cor_sag_lat_2.1,matrix_scan01,cor_sag_lat_2.1 S-1 X-2 Y-3 I-1.txt,3.246547,2.43491
+cor_sag_lat_2.1,matrix_scan02,cor_sag_lat_2.1 S-1 X-1 Y-2 I-1.txt,2.4079960000000002,1.805997
+cor_sag_lat_2.2,matrix_scan01,cor_sag_lat_2.1 S-1 X-1 Y-1 I-1.txt,4.390357,3.292767
+cor_sag_lat_2.2,matrix_scan01,cor_sag_lat_2.1 S-1 X-2 Y-1 I-1.txt,2.994859,2.2461439999999997
+cor_sag_lat_2.2,matrix_scan02,cor_sag_lat_2.1 S-1 X-1 Y-1 I-1.txt,0.683956,0.512967
+cor_sag_lat_2.2,matrix_scan02,cor_sag_lat_2.1 S-1 X-1 Y-2 I-1.txt,0.338747,0.254061
+cor_sag_lat_2.2,matrix_scan02,cor_sag_lat_2.1 S-1 X-1 Y-3 I-1.txt,1.564422,1.173317
+cor_sag_lat_2.2,matrix_scan02,cor_sag_lat_2.1 S-1 X-2 Y-1 I-1.txt,3.872489,2.904367
+cor_sag_lat_2.2,matrix_scan02,cor_sag_lat_2.1 S-1 X-2 Y-2 I-1.txt,2.189594,1.642196
+cor_sag_lat_2.2,matrix_scan02,cor_sag_lat_2.1 S-1 X-2 Y-3 I-1.txt,2.416699,1.8125250000000002
+cor_sag_mid_1,Indentations,cor_sag_mid_1 Indentation_002.txt,0.098413,0.07381
+cor_sag_mid_1,matrix_scan01,cor_sag_mid_2 S-1 X-1 Y-2 I-1.txt,2.69964,2.02473
+cor_sag_mid_1,matrix_scan01,cor_sag_mid_2 S-1 X-2 Y-1 I-1.txt,0.7725489999999999,0.579412
+cor_sag_mid_1,matrix_scan01,cor_sag_mid_2 S-1 X-2 Y-3 I-1.txt,0.159538,0.11965300000000001
+cor_sag_mid_1,matrix_scan02,cor_sag_mid_2 S-1 X-2 Y-3 I-1.txt,0.040542,0.030407
+cor_sag_mid_1,matrix_scan03,cor_sag_mid_1 S-1 X-2 Y-1 I-1.txt,0.174764,0.131073
+cor_sag_mid_1,matrix_scan03,cor_sag_mid_1 S-1 X-2 Y-2 I-1.txt,0.359802,0.269851
+cor_sag_mid_1,matrix_scan03,cor_sag_mid_1 S-1 X-2 Y-3 I-1.txt,0.166009,0.124507
+cor_sag_mid_2,Indentations,cor_sag_mid_2 Indentation_002.txt,0.174704,0.13102799999999998
+cor_sag_mid_2,Indentations,cor_sag_mid_2 Indentation_011.txt,0.019327999999999998,0.014496
+cor_sag_mid_2,Indentations,cor_sag_mid_2 Indentation_012.txt,0.023484,0.017613
+cor_sag_mid_2,Indentations,cor_sag_mid_2 Indentation_013.txt,0.024361999999999998,0.018272
+cor_sag_mid_2,Indentations,cor_sag_mid_2 Indentation_015.txt,0.088615,0.06646099999999999
+cor_sag_mid_2,Indentations,cor_sag_mid_2 Indentation_016.txt,0.339765,0.254824
+cor_sag_mid_2,matrix_scan01,cor_sag_mid_2 S-1 X-1 Y-1 I-1.txt,0.031444,0.023583
+cor_sag_mid_2,matrix_scan01,cor_sag_mid_2 S-1 X-1 Y-2 I-1.txt,0.06833,0.051247
+cor_sag_mid_2,matrix_scan01,cor_sag_mid_2 S-1 X-1 Y-3 I-1.txt,0.110325,0.082744
+cor_sag_mid_2,matrix_scan01,cor_sag_mid_2 S-1 X-2 Y-1 I-1.txt,0.07460599999999999,0.055954000000000004
+cor_sag_mid_2,matrix_scan01,cor_sag_mid_2 S-1 X-2 Y-2 I-1.txt,0.029292000000000002,0.021969000000000002
+med_hor_1,Indentations,med_hor_1 Indentation_001.txt,0.19098500000000002,0.143239
+med_hor_1,Indentations,med_hor_1 Indentation_002.txt,0.602717,0.45203699999999997
+med_hor_1,Indentations,med_hor_1 Indentation_006.txt,0.130849,0.098137
+med_hor_1,Indentations,med_hor_1 Indentation_007.txt,0.62375,0.467812
+med_hor_1,Indentations,med_hor_1 Indentation_009.txt,0.131874,0.09890600000000001
+med_hor_1,Indentations,med_hor_1 Indentation_012.txt,0.7540800000000001,0.56556
+med_hor_1,Indentations,med_hor_1 Indentation_013.txt,0.553086,0.414814
+med_hor_1,Indentations,med_hor_1 Indentation_014.txt,0.319444,0.239583
+med_hor_1,Indentations,Test Indentation_003.txt,0.492608,0.369456
+med_hor_1,Indentations,Test Indentation_004.txt,1.669586,1.2521900000000001
+med_hor_1,Indentations,Test Indentation_006.txt,0.64151,0.481132
+med_hor_2,Indentations,med_hor_2 Indentation_003.txt,0.145004,0.108753
+med_hor_2,matrix_scan01,med_hor_2 S-1 X-2 Y-1 I-1.txt,0.049308,0.036981
+med_hor_2,matrix_scan01,med_hor_2 S-1 X-2 Y-2 I-1.txt,0.14957499999999999,0.112181
+med_hor_2,matrix_scan02,med_hor_2 S-1 X-1 Y-1 I-1.txt,0.48362900000000003,0.362722
+med_hor_2,matrix_scan02,med_hor_2 S-1 X-1 Y-2 I-1.txt,0.186868,0.140151
+med_hor_2,matrix_scan02,med_hor_2 S-1 X-1 Y-3 I-1.txt,0.114935,0.086201
+med_hor_2,matrix_scan02,med_hor_2 S-1 X-2 Y-1 I-1.txt,1.489484,1.117113
+med_sag_1,matrix_scan01,med_sag_2 S-1 X-1 Y-1 I-1.txt,0.732654,0.549491
+med_sag_1,matrix_scan01,med_sag_2 S-1 X-1 Y-3 I-1.txt,0.906057,0.679543
+med_sag_1,matrix_scan01,med_sag_2 S-1 X-2 Y-1 I-1.txt,0.022114,0.016585000000000003
+med_sag_2,matrix_scan01,med_sag_2 S-1 X-1 Y-2 I-1.txt,0.223661,0.167745
+med_sag_2,matrix_scan01,med_sag_2 S-1 X-2 Y-2 I-1.txt,0.109518,0.082138
